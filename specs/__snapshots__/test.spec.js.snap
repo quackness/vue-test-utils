@@ -2,6 +2,6 @@
 
 exports[`mount a vue comp 1`] = `
 <div>
-  <h1>Hello Test</h1>
+  <h1>Hello VueS</h1>
 </div>
 `;
