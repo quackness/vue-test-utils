@@ -5,3 +5,9 @@ exports[`List component 1`] = `
   <h1>Hello Test</h1>
 </div>
 `;
+
+exports[`mount a vue comp 1`] = `
+<div>
+  <h1>Hello VueS</h1>
+</div>
+`;
